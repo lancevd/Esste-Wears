@@ -1,0 +1,10 @@
+.home-cat-show{
+    display: grid !important;
+    grid-template-columns: repeat(4, 1fr) !important;
+    column-gap: 0.5rem;
+    row-gap: 0.5rem;
+}
+
+.prd--style2 {
+    border: solid 1px rgba(128, 128, 128, 0.074);
+}
